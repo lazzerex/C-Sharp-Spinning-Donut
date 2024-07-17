@@ -1,0 +1,7 @@
+E:\CSharp_Repo\spinning-donut\spinning-donut\bin\Debug\spinning-donut.exe.config
+E:\CSharp_Repo\spinning-donut\spinning-donut\bin\Debug\spinning-donut.exe
+E:\CSharp_Repo\spinning-donut\spinning-donut\bin\Debug\spinning-donut.pdb
+E:\CSharp_Repo\spinning-donut\spinning-donut\obj\Debug\spinning-donut.csproj.AssemblyReference.cache
+E:\CSharp_Repo\spinning-donut\spinning-donut\obj\Debug\spinning-donut.csproj.CoreCompileInputs.cache
+E:\CSharp_Repo\spinning-donut\spinning-donut\obj\Debug\spinning-donut.exe
+E:\CSharp_Repo\spinning-donut\spinning-donut\obj\Debug\spinning-donut.pdb
